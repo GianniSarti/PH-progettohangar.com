@@ -1,0 +1,10 @@
+---
+import Home from '../components/Home.astro';
+import type { Locale } from '../i18n';
+
+// Con il fallback i18n (rewrite) questa pagina serve anche /es/ e /en/:
+// la lingua arriva da Astro.currentLocale, i testi ricadono sull'italiano.
+const locale = (Astro.currentLocale ?? 'it') as Locale;
+---
+
+<Home locale={locale} />

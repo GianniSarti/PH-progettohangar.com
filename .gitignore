@@ -1,0 +1,26 @@
+# Segreti e variabili d'ambiente (il template .env.example è versionato)
+.env
+.env.*
+!.env.example
+
+# Node / frontend
+node_modules/
+dist/
+.astro/
+.wrangler/
+
+# Python / backend
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
