@@ -1,0 +1,8 @@
+Based on the painting `1. Flotta.jpg`, generate a photorealistic photograph of the same scene with the following specific changes:
+
+1.  **Style & Lighting:** Transform the painting into a highly detailed, photorealistic photograph. Change the warm sunset lighting to cooler, natural daylight, with a blue sky and white and grey clouds.
+2.  **Aircraft Finish:** Render all aircraft, especially the main B-17 Flying Fortress in the foreground, with highly polished aluminum skin that realistically reflects the new daylight sky and clouds.
+3.  **Cloud Modification:** Significantly lower the height of the large, towering cumulus cloud formation on the left side of the frame. Its peak should now be tilted towards the left.
+4.  **New Aircraft:** Add two new P-51 Mustang fighter aircraft in the middle right of the frame, flying in formation. The Mustang on the left should be positioned higher than the one on the right.
+5.  **Aircraft Removal:** Remove the single, small distant aircraft speck located in the middle right, near where the new Mustangs are added.
+6.  **Preservation:** Ensure all other aircraft from the original image (the main B-17, the B-24s, and the original two P-51s in the upper left) remain in their relative positions, rendered with the new photorealistic style and lighting.
